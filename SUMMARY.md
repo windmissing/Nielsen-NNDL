@@ -5,4 +5,5 @@
     * [感知机神经元](Chapter1/Perceptrons.md)
     * [sigmoid神经元](Chapter1/Sigmoid.md)
     * [神经网络的架构](Chapter1/Architecture.md)
+    * [用于识别手写数字的简单网络](Handwritten.md)
 * [术语中英文对照](norms.md)
