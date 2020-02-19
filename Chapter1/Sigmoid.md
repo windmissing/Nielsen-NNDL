@@ -20,7 +20,9 @@ sigmoid神经元与感知机神经元类似，且满足网络对神经元的要�
 # $$\sigma$$函数
 
 [link](https://windmising.gitbook.io/mathematics-basic-for-ml/gai-shuai-lun/functions)  
-$$\sigma(z)=\frac{1}{1+e^{-z}}$$
+$$
+\sigma(z)=\frac{1}{1+e^{-z}}
+$$
 ![](http://windmissing.github.io/images_for_gitbook/mathematics_basic_for_ML/2.png)  
 它是感知机的平滑版本。  
 这就意味着**小的改变$$\Delta w$$和$$\Delta b$$会导致小的改变$$\Delta$$output**   
