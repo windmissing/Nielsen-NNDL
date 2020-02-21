@@ -10,4 +10,6 @@
         * [准备工作](Gradient/1.md)
         * [梯度下降法](Gradient/2.md)
         * [应用到神经网络](Gradient/3.md)
+    * 实现数字分类的神经网络
+        * [数据集](Chapter1/Implementing/1.md)
 * [术语中英文对照](norms.md)
