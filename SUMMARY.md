@@ -12,4 +12,6 @@
         * [应用到神经网络](Gradient/3.md)
     * 实现数字分类的神经网络
         * [数据集](Chapter1/Implementing/1.md)
+        * [初始化](Chapter2/Implementing/2.md)
+        * [sigmoid](Chapter2/Implementing/3.md)
 * [术语中英文对照](norms.md)
