@@ -2,6 +2,7 @@
 
 |英文|中文|
 |---|---|
+|backpropagation algorithm|反向传播算法|
 |neuron|神经元|
 |neural networks|神经网络|
 |perceptron|感知机|

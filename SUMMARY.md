@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [使用神经网络识别手写数字](Chapter1/Introduction.md)
+* [第1章 使用神经网络识别手写数字](Chapter1/Introduction.md)
     * [感知机神经元](Chapter1/Perceptrons.md)
     * [sigmoid神经元](Chapter1/Sigmoid.md)
     * [神经网络的架构](Chapter1/Architecture.md)
@@ -16,4 +16,5 @@
         * [向后传递](Chapter1/Implementing/3.md)
         * [随机梯度下降](Chapter1/Implementing/4.md)
         * [总结](Chapter1/Implementing/5.md)
+* [第2章 反向传播算法的工作原理](Chapter2/Introduction.md)
 * [术语中英文对照](norms.md)
