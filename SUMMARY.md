@@ -19,4 +19,5 @@
 * [第2章 反向传播算法的工作原理](Chapter2/Introduction.md)
     * [热身：一种矩阵方法快速计算神经网络的输出](Chapter2/Warmup.md)
     * [关于代价函数的两个假设](Chapter2/Assumptions.md)
+    * [Hadamard积](Chapter2/Hadamard.md)
 * [术语中英文对照](norms.md)
