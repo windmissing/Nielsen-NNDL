@@ -20,4 +20,8 @@
     * [热身：一种矩阵方法快速计算神经网络的输出](Chapter2/Warmup.md)
     * [关于代价函数的两个假设](Chapter2/Assumptions.md)
     * [Hadamard积](Chapter2/Hadamard.md)
+    * [反向传播算法中的4个等式](Chapter2/Equations/Advices.md)
+        * [一个新的定义](Chapter2/Equations/1.md)
+        * [4个等式](Chapter2/Equations/2.md)
+        * [公式的意义](Chapter2/Equations/3.md)
 * [术语中英文对照](norms.md)
