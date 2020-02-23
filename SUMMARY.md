@@ -25,4 +25,5 @@
         * [4个等式](Chapter2/Equations/2.md)
         * [等式的意义](Chapter2/Equations/3.md)
     * [4个等式的证明](Chapter2/Proof.md)
+    * [反向传播算法](Chapter2/Algorithm.md)
 * [术语中英文对照](norms.md)
