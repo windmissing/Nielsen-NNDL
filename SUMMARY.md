@@ -23,5 +23,6 @@
     * [反向传播算法中的4个等式](Chapter2/Equations/Advices.md)
         * [一个新的定义](Chapter2/Equations/1.md)
         * [4个等式](Chapter2/Equations/2.md)
-        * [公式的意义](Chapter2/Equations/3.md)
+        * [等式的意义](Chapter2/Equations/3.md)
+    * [4个等式的证明](Chapter2/Proof.md)
 * [术语中英文对照](norms.md)
