@@ -4,6 +4,7 @@
 |---|---|
 |backpropagation algorithm|反向传播算法|
 |cost function|代价函数|
+|cross entropy|交叉熵|
 |loss function|损失函数|
 |neuron|神经元|
 |neural networks|神经网络|

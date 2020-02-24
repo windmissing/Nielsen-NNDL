@@ -26,4 +26,10 @@
         * [等式的意义](Chapter2/Equations/3.md)
     * [4个等式的证明](Chapter2/Proof.md)
     * [反向传播算法](Chapter2/Algorithm.md)
+    * [代码解读](Chapter2/Code.md)
+    * [反向传播算法为什么这么快](Chapter2/Fast.md)
+* [第3章 提升神经网络的学习方法](Chapter3/Introduction.md)
+    * cross-entropy代价函数
+        * [当前神经网络存在的问题](Chapter3/CrossEntropy/1.md)
+        * [引入cross-entropy代价函数](Chapter3/CrossEntropy/2.md)
 * [术语中英文对照](norms.md)
