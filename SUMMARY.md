@@ -32,4 +32,10 @@
     * cross-entropy代价函数
         * [当前神经网络存在的问题](Chapter3/CrossEntropy/1.md)
         * [引入cross-entropy代价函数](Chapter3/CrossEntropy/2.md)
+        * [使用cross-entropy分类手写数字](Chapter3/CrossEntropy/3.md)
+        * [cross-entropy代价函数是怎么推出来的](Chapter3/CrossEntropy/4.md)
+        * [cross-entropy的数学意义](Chapter3/CrossEntropy/5.md)
+        * [softmaxt+loglikelihood](Chapter3/CrossEntropy/6.md)
+    * 过拟合和正则化
+        * [过拟合](Chapter3/Overfitting/1.md)
 * [术语中英文对照](norms.md)
