@@ -37,5 +37,9 @@
         * [cross-entropy的数学意义](Chapter3/CrossEntropy/5.md)
         * [softmaxt+loglikelihood](Chapter3/CrossEntropy/6.md)
     * 过拟合和正则化
-        * [过拟合](Chapter3/Overfitting/1.md)
+        * [过拟合](Chapter3/Regularization/1.md)
+        * [L2正则化](Chapter3/Regularization/2.md)
+        * [在当前神经网络中使用L2正则化](Chapter3/Regularization/3.md)
+        * [其它问题](Chapter3/Regularization/4.md)
+        * [L1正则化](Chapter3/Regularization/5.md)
 * [术语中英文对照](norms.md)

@@ -9,4 +9,5 @@
 |neuron|神经元|
 |neural networks|神经网络|
 |perceptron|感知机|
+|regularization|正则化|
 |stochastic gradient descent|随机梯度下降法|
