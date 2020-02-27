@@ -46,11 +46,25 @@
         * [人为扩充训练数据](Chapter3/Regularization/7.md)
     * [weights初始化](Chapter3/Weights.md)
     * [回到手势识别代码](Chapter3/Code.md)
-    * 怎样选择超参数]
+    * 怎样选择超参数
         * [broad策略](Chapter3/HyperParameters/1.md)
         * [学习率eta](Chapter3/HyperParameters/2.md)
         * [迭代次数epochs](Chapter3/HyperParameters/3.md)
         * [正则化参数lambda](Chapter3/HyperParameters/4.md)
         * [minibatch样本数m](Chapter3/HyperParameters/5.md)
         * [自动化技术](Chapter3/HyperParameters/6.md)
+    * 其它技术
+        * [Hessian技术](Chapter3/Other/1.md)
+        * [momentum技术](Chapter3/Other/2.md)
+        * [tanh神经元](Chapter3/Other/3.md)
+        * [RectifiedLinear神经元](Chapter3/Other/4.md)
+* [第5章 训练深度神经网络难以训练](Chapter5/Introduction.md)
+    * [梯度消失问题](Chapter5/Vanishing.md)
+    * [梯度消失的原因](Chapter5/Causing.md)
+* 第6章 深度学习
+    * [卷积神经网络介绍](Chapter6/Convolutional/1.md)
+    * [LocalReceptiveField](Chapter6/Convolutional/2.md)
+    * [SharedWeights](Chapter6/Convolutional/3.md)
+    * [pooling层](Chapter6/Convolutional/4.md)
+    * [组装到一起](Chapter6/Convolutional/5.md)
 * [术语中英文对照](norms.md)

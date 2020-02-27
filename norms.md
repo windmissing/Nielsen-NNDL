@@ -3,6 +3,7 @@
 |英文|中文|
 |---|---|
 |backpropagation algorithm|反向传播算法|
+|convolutional neural networks|卷积神经网络|
 |cost function|代价函数|
 |cross entropy|交叉熵|
 |loss function|损失函数|
