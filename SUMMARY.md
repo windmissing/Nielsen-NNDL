@@ -68,5 +68,5 @@
         * [pooling层](Chapter6/Convolutional/4.md)
         * [组装到一起](Chapter6/Convolutional/5.md)
     * [卷积神经网络的实践与改进](Chapter6/Practise.md)
-    * [其它深度神经网络的方法])(Chapter6/Other.md)
+    * [其它深度神经网络的方法](Chapter6/Other.md)
 * [术语中英文对照](norms.md)
